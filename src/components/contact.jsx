@@ -87,7 +87,7 @@ export class Contact extends Component {
                 </p>
               </div>
             </div>
-            <div className="col-md-12">
+            {/* <div className="col-md-12">
               <div className="row">
                 <div className="social">
                   <ul>
@@ -111,15 +111,15 @@ export class Contact extends Component {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
+              &copy; 2021 Graphoun. Design by{" "}
               <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+              Graphoun
               </a>
             </p>
           </div>

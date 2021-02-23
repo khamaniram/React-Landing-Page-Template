@@ -1,23 +1,27 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
+        "title": "We are a Graphoun Page",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "We are nerds !! A hivemind of Engineers, Financial Investment Analysts and Human centred Problem Solvers. Artificial Intelligence is in our DNA and our game-changing AI innovations are redefining the possibilities of Control-Room and Digital-Decision-Making experiences. We connect Video, Audio, Alarms, Critical Data and introduce meaningful creativity, shape the next generation of decision-making tools, and inspire entirely new categories of business.We have big ambitions, and a growing sense of urgency to work with others and address world challenges no one can tackle alone. ",
+        "Vision": 
+            "To be the trusted performance leader that unleashes the potential of Artificial Intelligence for Decision Making."
+        ,
+        "Mission": 
+            "We engineer solutions for our customers’ greatest challenges with reliable AI computing."
+        ,
+        "Purpose": 
+            "Empower the world of critical decision making, through the power of creativity and technology. "
+            
+        ,
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Create deck of AI based tools that makes the world safer, builds healthy and vibrant control rooms and improve decision making. ",
+            "LHarness our reach around the globe to better society, business, and Law Enforcement.",
+            "Push ourselves and our industry peers to be more inclusive and sustainable."
+            
         ]
     },
     "Services": [{
@@ -86,28 +90,27 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Deeppreet",
+            "job": "Director",
+            "about":"Deepreet, Founder & CEO of Graphoun AI. She is recognized for her thought leadership and strategic business initiatives in India and globally. She has held leading positions as Investment Banker in Indusind, HDFC, and Standard Charted Bank over 15 years. She has in-depth experience in different aspects of HR, Finance, Business Development, Sales, and Marketing, and has executed many engagements from conceptualizing ideas to building them successfully. She holds a Master’s degree in Management with specialization in HR and Finance from Delhi University."
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Atul Sharma,",
+            "job": "Senior Designer",
+            "about":"Atul Sharma, Director and Legal Advisor, is well know industrialist and Social Entrepreneur. He has 25 years of experience in managing industries. He is responsible for managing, formulating and executing long-term strategies of the company and growing business into new geographies. He holds a Master’s degree in Business Administration and law from Agra University."
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Dr. Jyoti Sharma,",
+            "job": "Senior Designer",
+            "about":"Dr. Jyoti, Director Research and Development- She is research scholar. She has 12 years of experience in embedded electronics. She is responsible for managing, formulating and executing technical requirement of the company. Dr. Jyoti received her B.Sc. (Honors in Physics), M.Sc in Physics from University of Agra University, and PhD in Physics from Agra University"
         }
+        
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "Noida, Noida, UP ",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "email": "info@graphoun.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
