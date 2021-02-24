@@ -7,10 +7,7 @@ export class Gallery extends Component {
         <div className="container">
           <div className="section-title">
             <h2>Gallery</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
-            </p>
+            <p>Some screenShots of our great products</p>
           </div>
           <div className="row">
             <div className="portfolio-items">
@@ -24,7 +21,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>AI</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -45,7 +42,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Graphoun AI</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -66,7 +63,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Graphoun HMS</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -87,7 +84,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Graphoun Tickting</h4>
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
@@ -108,7 +105,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Graphoun Command</h4>
                       </div>
                       <img
                         src="img/portfolio/05-small.jpg"
@@ -129,7 +126,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Graphoun Dashboard</h4>
                       </div>
                       <img
                         src="img/portfolio/06-small.jpg"
@@ -150,7 +147,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Graphoun</h4>
                       </div>
                       <img
                         src="img/portfolio/07-small.jpg"
@@ -171,7 +168,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Graphoun HMS</h4>
                       </div>
                       <img
                         src="img/portfolio/08-small.jpg"
@@ -192,7 +189,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Graphoun HMS</h4>
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"

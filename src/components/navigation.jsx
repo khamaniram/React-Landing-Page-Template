@@ -28,11 +28,7 @@ export class Navigation extends Component {
             id="bs-example-navbar-collapse-1"
           >
             <ul className="nav navbar-nav navbar-right navigation">
-              <li>
-                <a href="#features" className="page-scroll">
-                  Features
-                </a>
-              </li>
+              
               <li>
                 <a href="#about" className="page-scroll">
                   About
@@ -46,11 +42,6 @@ export class Navigation extends Component {
               <li>
                 <a href="#portfolio" className="page-scroll">
                   Gallery
-                </a>
-              </li>
-              <li>
-                <a href="#testimonials" className="page-scroll">
-                  Testimonials
                 </a>
               </li>
               <li>

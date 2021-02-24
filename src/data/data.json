@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Graphoun Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Graphoun",
+        "paragraph": "connecting the dates"
 
     },
     "About": {
@@ -26,33 +26,27 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Graphoun HMS"
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Graphoun Tickting"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Graphoun Dashboard"
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Graphoun command & control center"
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Graphoun AI"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Outsourcing"
         }
 
 
@@ -89,18 +83,18 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/11.png",
             "name": "Deeppreet",
             "job": "Director",
             "about":"Deepreet, Founder & CEO of Graphoun AI. She is recognized for her thought leadership and strategic business initiatives in India and globally. She has held leading positions as Investment Banker in Indusind, HDFC, and Standard Charted Bank over 15 years. She has in-depth experience in different aspects of HR, Finance, Business Development, Sales, and Marketing, and has executed many engagements from conceptualizing ideas to building them successfully. She holds a Master’s degree in Management with specialization in HR and Finance from Delhi University."
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/6.png",
             "name": "Atul Sharma,",
             "job": "Senior Designer",
             "about":"Atul Sharma, Director and Legal Advisor, is well know industrialist and Social Entrepreneur. He has 25 years of experience in managing industries. He is responsible for managing, formulating and executing long-term strategies of the company and growing business into new geographies. He holds a Master’s degree in Business Administration and law from Agra University."
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/11.png",
             "name": "Dr. Jyoti Sharma,",
             "job": "Senior Designer",
             "about":"Dr. Jyoti, Director Research and Development- She is research scholar. She has 12 years of experience in embedded electronics. She is responsible for managing, formulating and executing technical requirement of the company. Dr. Jyoti received her B.Sc. (Honors in Physics), M.Sc in Physics from University of Agra University, and PhD in Physics from Agra University"
@@ -109,7 +103,7 @@
     ],
     "Contact": {
         "address": "Noida, Noida, UP ",
-        "phone": "+1 123 456 1234",
+        "phone": "+91 9555699984",
         "email": "info@graphoun.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
@@ -117,23 +111,19 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Graphoun AI"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Graphoun HMS"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Graphoun Tickting"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Outsourcing"
         }
     ]
 }
