@@ -14,7 +14,7 @@ export class Services extends Component {
               ? this.props.data.map((d, i) => (
                   <div  key={`${d.name}-${i}`} className="col-md-4">
                     {" "}
-                    <i style={{color: '#000',background: '#f3cf72'}}  className={d.icon}></i>
+                    <i className={`${d.icon} graphoun-icon`}></i>
                     <div className="service-desc">
                       <h3>{d.name}</h3>
                       <p>{d.text}</p>

@@ -7,7 +7,7 @@ export class Gallery extends Component {
         <div className="container">
           <div className="section-title">
             <h2>Gallery</h2>
-            <p>Some screenShots of our great products</p>
+            <p>Some screenshots of our great products</p>
           </div>
           <div className="row">
             <div className="portfolio-items">

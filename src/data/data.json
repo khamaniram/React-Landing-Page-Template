@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "Graphoun",
-        "paragraph": "connecting the dates"
+        "paragraph": "Visualise your decision"
 
     },
     "About": {
@@ -19,33 +19,33 @@
         ,
         "Why": [
             "Create deck of AI based tools that makes the world safer, builds healthy and vibrant control rooms and improve decision making. ",
-            "LHarness our reach around the globe to better society, business, and Law Enforcement.",
+            "Harness our reach around the globe to better society, business, and Law Enforcement.",
             "Push ourselves and our industry peers to be more inclusive and sustainable."
             
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-sitemap",
             "name": "Graphoun HMS"
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-bug",
             "name": "Graphoun Tickting"
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-language",
             "name": "Graphoun Dashboard"
         },
         {
             "icon": "fa fa-language",
-            "name": "Graphoun command & control center"
+            "name": "Graphoun Command & Control Center"
         },
         {
-            "icon": "fa fa-plane",
+            "icon": "fa fa-android",
             "name": "Graphoun AI"
         },
         {
-            "icon": "fa fa-pie-chart",
+            "icon": "fa fa-users",
             "name": "Outsourcing"
         }
 
@@ -85,25 +85,25 @@
     "Team": [{
             "img": "img/team/11.png",
             "name": "Deeppreet",
-            "job": "Director",
+            "job": "Founder & CEO",
             "about":"Deepreet, Founder & CEO of Graphoun AI. She is recognized for her thought leadership and strategic business initiatives in India and globally. She has held leading positions as Investment Banker in Indusind, HDFC, and Standard Charted Bank over 15 years. She has in-depth experience in different aspects of HR, Finance, Business Development, Sales, and Marketing, and has executed many engagements from conceptualizing ideas to building them successfully. She holds a Master’s degree in Management with specialization in HR and Finance from Delhi University."
         },
         {
             "img": "img/team/6.png",
             "name": "Atul Sharma,",
-            "job": "Senior Designer",
-            "about":"Atul Sharma, Director and Legal Advisor, is well know industrialist and Social Entrepreneur. He has 25 years of experience in managing industries. He is responsible for managing, formulating and executing long-term strategies of the company and growing business into new geographies. He holds a Master’s degree in Business Administration and law from Agra University."
+            "job": "Director - Business Operations",
+            "about":"Atul Sharma, Director-Business Operations, is well know industrialist and Social Entrepreneur. He has 25 years of experience in managing industries. He is responsible for managing, formulating and executing long-term strategies of the company and growing business into new geographies. He holds a Master’s degree in Business Administration and law from Agra University."
         }, {
             "img": "img/team/11.png",
             "name": "Dr. Jyoti Sharma,",
-            "job": "Senior Designer",
+            "job": "Director - Research and Development",
             "about":"Dr. Jyoti, Director Research and Development- She is research scholar. She has 12 years of experience in embedded electronics. She is responsible for managing, formulating and executing technical requirement of the company. Dr. Jyoti received her B.Sc. (Honors in Physics), M.Sc in Physics from University of Agra University, and PhD in Physics from Agra University"
         }
         
     ],
     "Contact": {
-        "address": "Noida, Noida, UP ",
-        "phone": "+91 9555699984",
+        "address": "B-746, iThum, Sector 62, Noida, Uttar Pradesh, India",
+        "phone": "+91 724 821 0910",
         "email": "info@graphoun.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",

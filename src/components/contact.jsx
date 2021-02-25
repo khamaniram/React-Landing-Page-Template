@@ -118,7 +118,7 @@ export class Contact extends Component {
           <div className="container text-center">
             <p>
               &copy; 2021 Graphoun. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
+              <a href="http://www.graphoun.com" rel="nofollow">
               Graphoun
               </a>
             </p>

@@ -1,11 +1,15 @@
 import React, { Component } from "react";
 
+const imgStyle={
+  marginTop: "-30px",
+  marginLeft: "-40px"
+};
+
 export class Navigation extends Component {
   render() {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <div className="container">
-            
             <div className="navbar-header">
               <button
                 type="button"
@@ -13,15 +17,16 @@ export class Navigation extends Component {
                 data-toggle="collapse"
                 data-target="#bs-example-navbar-collapse-1"
               >
-                {" "}
-                <span className="sr-only">Toggle navigation</span>{" "}
-                <span className="icon-bar"></span>{" "}
-                <span className="icon-bar"></span>{" "}
-                <span className="icon-bar"></span>{" "}
+                
+                <span className="sr-only">Toggle navigation</span>
+                <span className="icon-bar"></span>
+                <span className="icon-bar"></span>
+                <span className="icon-bar"></span>
               </button>
               <a className="navbar-brand page-scroll"  href="#page-top" >
-                Graphoun
-            </a>{" "}
+              <label style={imgStyle}> <img src="img/logo.png" height="80px"></img></label>
+              <span>Graphoun</span>
+            </a>
             </div>
           <div
             className="collapse navbar-collapse"

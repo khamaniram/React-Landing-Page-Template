@@ -11,8 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-#menu.navbar-default {
-  background-color: #f3cf72;
+#menu.navbar-default ,.learn-more,.graphoun-icon,.btn-custom{
+  background-color: rgb(255, 200, 100);
 }
 #about h3 {
   font-size: 22px;
@@ -21,36 +21,4 @@ code {
 #about p {
   line-height: 24px;
   margin: 8px;
-}
-.learn-more{
-  background: #f3b005;
-  color: #000000 ;
-}
-#services{
-  background: #f3b005;
-  color: #000000 !important;
-}
-#services h2 {
-  color: #000000;
-}
-#contact {
-     background: #f3b005;
-  color: #000000 !important;
-}
-#contact  h2 ,h3 {
-  color: #000000;
-}
-#contact  h3 {
-  color: #000000;
-}
-#contact .contact-item span {
-  color: #000000;
-}
-#footer{
-
-  background: #131A22;
-}
-.intro h1{
-  color: #000;
-
 }
