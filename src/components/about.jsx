@@ -14,8 +14,7 @@ export class about extends Component {
                 <div className="list-style">
                   <div className="col-xs-12 col-md-6">
                     <h3>Vision</h3>
-                    <p>{this.props.data ? this.props.data.Vision : 'loading...'}</p>
-                    
+                    <p>{this.props.data ? this.props.data.Vision : 'loading...'}</p>                    
                   </div>
                   <div className="col-xs-12 col-md-6">
                     <h3>Purpose</h3>
@@ -31,7 +30,6 @@ export class about extends Component {
                     <h3>We are inspired to:</h3>
                     <p >
                       {this.props.data ? this.props.data.Why.map((d, i) => <li key={`${d}-${i}`}> {d}</li>) : 'loading'}
-
                     </p>
                   </div>
                 </div>

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const imgStyle={
   marginTop: "-30px",
-  marginLeft: "-40px"
+  marginLeft: "-35px"
 };
 
 export class Navigation extends Component {
@@ -16,8 +16,7 @@ export class Navigation extends Component {
                 className="navbar-toggle collapsed"
                 data-toggle="collapse"
                 data-target="#bs-example-navbar-collapse-1"
-              >
-                
+              >                
                 <span className="sr-only">Toggle navigation</span>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
@@ -32,8 +31,7 @@ export class Navigation extends Component {
             className="collapse navbar-collapse"
             id="bs-example-navbar-collapse-1"
           >
-            <ul className="nav navbar-nav navbar-right navigation">
-              
+            <ul className="nav navbar-nav navbar-right navigation">              
               <li>
                 <a href="#about" className="page-scroll">
                   About
